@@ -5,5 +5,3 @@
 🖱 [Roadmap](https://roadmap.sh/frontend/)  
 🖱 [Js dom event list](https://developer.mozilla.org/pt-BR/docs/Web/Events)  
 🖱 [Swiper](https://swiperjs.com/)  
-🖱 [JSONPlaceholder](https://jsonplaceholder.typicode.com/)  
-🖱 [códigos de status de respostas http](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)  
